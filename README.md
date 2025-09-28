@@ -13,17 +13,17 @@ Before you begin, make sure you have the following installed:
 - npm (comes with Node.js)
 
 
-## Install the VS CODE Extension: 
-Open the Extensions view in VS Code (Ctrl+Shift+X or Cmd+Shift+X) and search for "Playwright"
+## Install: 
+Step 1: Open the Extensions view in VS Code (Ctrl+Shift+X or Cmd+Shift+X) and search for "Playwright"
 
-Download all the project files from this repository.
+Step 2: Download all the project files from this repository.
 
-Open the project in VS CODE.
+Step 3: Open the project in VS CODE.
 
-Find and open the tests/DoozieShop.spec.js file
+Step 4: Find and open the tests/DoozieShop.spec.js file
 
 ## Open the vs code terminal and run:
-npx playwright test --project=chromium --headed
+Step 5: npx playwright test --project=chromium --headed
 
 ## This command will run the automation script in Chromium browser in UI mode.
 
