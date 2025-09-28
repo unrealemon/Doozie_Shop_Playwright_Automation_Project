@@ -23,7 +23,7 @@ Download all the project files from this repository.
 
 Open the project in VS CODE.
 
-Find and open the tests/Doozie.spec.js file
+Find and open the tests/DoozieShop.spec.js file
 
 ## Open the vs code terminal and run:
 npx playwright test --project=chromium --headed
