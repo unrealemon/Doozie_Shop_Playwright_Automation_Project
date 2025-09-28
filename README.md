@@ -19,11 +19,11 @@ Before you begin, make sure you have the following installed:
 ## Install the VS CODE Extension: 
 Open the Extensions view in VS Code (Ctrl+Shift+X or Cmd+Shift+X) and search for "Playwright"
 
-## Download all the project files from this repository.
+Download all the project files from this repository.
 
-## Open the project in VS CODE.
+Open the project in VS CODE.
 
-## Find the Tests/Doozie.spec.js file
+Find and open the tests/Doozie.spec.js file
 
 ## Open the vs code terminal and run:
 npx playwright test --project=chromium --headed
