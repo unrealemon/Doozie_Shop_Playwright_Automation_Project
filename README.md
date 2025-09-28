@@ -2,13 +2,12 @@
 
 Get started by installing Playwright using one of the following methods.
 
-Installation
 
 # Playwright E2E Testing Project
 
 This repository contains automated end-to-end (E2E) tests built with [Playwright](https://playwright.dev/).  
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, make sure you have the following installed:
 
@@ -17,18 +16,19 @@ Before you begin, make sure you have the following installed:
 - npm (comes with Node.js)
 
 
-Install the VS CODE Extension: Open the Extensions view in VS Code (Ctrl+Shift+X or Cmd+Shift+X) and search for "Playwright"
+## Install the VS CODE Extension: 
+Open the Extensions view in VS Code (Ctrl+Shift+X or Cmd+Shift+X) and search for "Playwright"
 
-Download all the project files from this repository.
+## Download all the project files from this repository.
 
-Open the project in VS CODE.
+## Open the project in VS CODE.
 
-Find the Tests/Doozie.spec.js file
+## Find the Tests/Doozie.spec.js file
 
-Open the vs code terminal and run:
+## Open the vs code terminal and run:
 npx playwright test --project=chromium --headed
 
-This command will run the automation script in Chromium browser.
+## This command will run the automation script in Chromium browser.
 
 
 
