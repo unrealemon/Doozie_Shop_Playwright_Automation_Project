@@ -4,16 +4,38 @@ Get started by installing Playwright using one of the following methods.
 
 Installation
 
-System requirements:
-Node.js: latest 20.x, 22.x or 24.x.
-Windows 10+, Windows Server 2016+ or Windows Subsystem for Linux (WSL).
-macOS 14 (Ventura) or later.
-Debian 12 / 13, Ubuntu 22.04 / 24.04 (x86-64 or arm64).
+# Playwright E2E Testing Project
 
-Official playwright doc for the installation process [Link](https://playwright.dev/docs/intro)
+This repository contains automated end-to-end (E2E) tests built with [Playwright](https://playwright.dev/).  
 
-Or you can use the below commands:
+## 📋 Prerequisites
 
-npm init playwright@latest
+Before you begin, make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (>= 16.x recommended)
+- [Git](https://git-scm.com/)
+- npm (comes with Node.js)
+
+
+Install the VS CODE Extension: Open the Extensions view in VS Code (Ctrl+Shift+X or Cmd+Shift+X) and search for "Playwright"
+
+Download all the project files from this repository.
+
+Open the project in VS CODE.
+
+Find the Tests/Doozie.spec.js file
+
+Open the vs code terminal and run:
+npx playwright test --project=chromium --headed
+
+This command will run the automation script in Chromium browser.
+
+
+
+
+
+
+
+
 
 
