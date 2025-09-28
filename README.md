@@ -2,9 +2,6 @@
 
 Get started by installing Playwright using one of the following methods.
 
-
-# Playwright E2E Testing Project
-
 This repository contains automated end-to-end (E2E) tests built with [Playwright](https://playwright.dev/).  
 
 ## Prerequisites
