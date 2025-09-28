@@ -28,7 +28,7 @@ Find and open the tests/Doozie.spec.js file
 ## Open the vs code terminal and run:
 npx playwright test --project=chromium --headed
 
-## This command will run the automation script in Chromium browser.
+## This command will run the automation script in Chromium browser in UI mode.
 
 
 
